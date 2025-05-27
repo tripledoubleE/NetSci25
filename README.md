@@ -25,8 +25,6 @@ across two datasets:
 - Graph-based latent factor models (e.g. **GAE, VGAE, GCN**) achieve **higher precision with improved fairness**.
 - The trade-off is dataset-dependent, but **graph neural models consistently strike a better balance**.
 
-![Precision vs Fairness](path/to/your/figure.png) <!-- Optional if you want to add a plot -->
-
 ---
 
 
